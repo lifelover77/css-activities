@@ -1,0 +1,19 @@
+* {
+    font-family: 'Arial';
+    font-family: 20px;
+}
+
+#test {
+    font-size: 48px;
+    color: green;
+}
+
+h1 {
+    text-align: left;
+}
+
+#titulo {
+    color: orange;
+    background-color: blue;
+    font-size: 72px;
+}
